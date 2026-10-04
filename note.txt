@@ -1,0 +1,8 @@
+Role Based Prompting:
+
+    Role-based prompting means telling an AI model what role or persona it should take before answering.
+    You give the model a role so that it responds with the appropriate knowledge, tone, perspective, and level of detail.
+
+
+Structured Prompt Formula:
+    Role + Task + Context + Format + Constraints
